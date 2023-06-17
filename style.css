@@ -1,0 +1,55 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#ImagemSuperior
+{
+    background-color: blue;
+    display: inline-block;
+    width: 50%; /* Ajuste a largura conforme necessário */
+    height: 300px; /* Ajuste a altura conforme necessário */
+}
+#ImagemInicial
+{
+    height: 100%;
+    width: 50%;
+}
+.Parágrafo
+{
+    font-size: 24px;
+    text-align: right;
+}
+
+#História
+{
+    height: 400px;
+    text-align: center;
+    font-size: 24px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#História1
+{
+    width: auto;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: blueviolet;
+}
+
+#Personagens
+{
+    background-color: red;
+    text-align: center;
+}
+.HarryMason, .LisaGarland, .Cheryl
+{
+    display: inline-block;
+    width: 33%; /* Ajuste a largura conforme necessário */
+    height: 300px; /* Ajuste a altura conforme necessário */
+    background-color: #e306f7;
+
+    text-align: center;
+}
