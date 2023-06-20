@@ -6,19 +6,20 @@ body
 #ImagemSuperior
 {
     background-color: blue;
-    display: inline-block;
-    width: 50%; /* Ajuste a largura conforme necessário */
-    height: 300px; /* Ajuste a altura conforme necessário */
+    height: 500px;
 }
 #ImagemInicial
 {
-    height: 100%;
-    width: 50%;
+    height: 400px;
+    left: auto;
+    padding-left: 100px;
 }
 .Parágrafo
 {
     font-size: 24px;
-    text-align: right;
+    text-align:right;
+    padding-right: 200px;
+    padding-top: 50px;
 }
 
 #História
@@ -47,9 +48,9 @@ body
 .HarryMason, .LisaGarland, .Cheryl
 {
     display: inline-block;
-    width: 33%; /* Ajuste a largura conforme necessário */
-    height: 300px; /* Ajuste a altura conforme necessário */
+    width: 33%; 
+    height: 300px; 
     background-color: #e306f7;
 
-    text-align: center;
+    text-align: justify, center;
 }
