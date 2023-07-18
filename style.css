@@ -1,7 +1,8 @@
-body
+#body
 {
     font-family:'Times New Roman', Times, serif;
-    background-color: rgba(11, 19, 35, 0.425);
+    background-image: rgb(87,85,122);
+    background-image: linear-gradient(rgb(74, 73, 87) 0%, rgba(46,46,50,1) 48%, rgba(4,22,25,1) 100%);
 }
 
 #Topo
